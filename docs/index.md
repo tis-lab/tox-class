@@ -4,8 +4,6 @@
 
 Register at http://bit.ly/mtip_nu
 
-Note that if the workshop is oversubscribed, a second date will be considered. Members of CTSA institutions will be prioritized.
-
 ### Agenda
 
 **Note: This content is still under development; timing of each lesson is approximate and includes time for putting it into practice.**  
