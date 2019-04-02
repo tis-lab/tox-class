@@ -1,8 +1,6 @@
-# Managing Translational Informatics Projects
+# Tox class
 
-This tutorial aims to teach informatics program and project managers about tools and techniques for collaborative and distributed project management for informatics projects. 
+This class will introduce principles of evidence-based decisionmaking and research using tools and techniques for collaborative and distributed project management for informatics projects. 
 
-See the site at: [Managing Translational Informatics Projects](https://data2health.github.io/mtip-tutorial)
-
-[![Gitter](https://badges.gitter.im/tis-lab/MTIP-tutorial.svg)](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+See the site [here](https://tis-lab.github.io/tox-class/)
 
