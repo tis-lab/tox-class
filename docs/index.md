@@ -2,7 +2,7 @@
 
 #### Registration
 
-Register at http://bit.ly/mtip_nu
+Register at http://bit.ly/toxpayitforward
 
 ### Agenda
 
@@ -23,7 +23,7 @@ Register at http://bit.ly/mtip_nu
 \* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
 
 ### Contact us
-For questions about the workshop itself, contact us at [data2health+mtip@gmail.com](mailto:data2health+mtip@gmail.com)
+For questions, contact us at [melissa.haendel@oregonstate.edu](mailto:melissa.haendel@oregonstate.edu)
 
-Suggest an edit [here via GitHub](https://github.com/data2health/mtip-tutorial/edit/master/docs/index.md)
+Suggest an edit [here via GitHub](https://github.com/tis-lab/tox-class/edit/master/docs/index.md)
 
