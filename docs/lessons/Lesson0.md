@@ -1,4 +1,4 @@
-## Lesson 0: Preparation for the tutorial
+## Lesson 0: Preparation
 ##### [Back to Home](../index.md)
 
 ### Overview
@@ -8,13 +8,13 @@
 
 We will be screensharing over Zoom for remote participants so please [install it](https://zoom.us/download) on your computer if you haven't already. You may also join the Zoom if you are participating in person, however in this case please remain completely _off audio_ (note that this is different from just being on mute). 
 
-Let's face it: an all-day video conference is hard. It will be more fun if it is as lively and interactive as possible, so please participate with video on, at least when you are talking, unless you have bandwidth constraints.
+Let's face it: avideo conference is hard. It will be more fun if it is as lively and interactive as possible, so please participate with video on, at least when you are talking, unless you have bandwidth constraints.
 
 #### 2) Make sure you have a computer to use
 
 You will learn best if you are actively applying the skills rather than just observing them.
 
-#### 3) Join the MTIP team and chatroom
+#### 3) Join the team and chatroom
 
 - You will first need a GitHub account if you don't already have one; it is absolutely free at [github.com/join](https://github.com/join). 
 - Then go to the the public tutorial Chat room [on Gitter here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and sign in with GitHub
