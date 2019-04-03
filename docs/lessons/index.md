@@ -10,11 +10,11 @@ Collaborative data-driven and deep-thinking based decision making
 
 The goal of this course is to provide students experience in exploring the data and knowledge behind current topics and trends in environmental health research, while simultaneously gaining skills in modern collaboration technologies and open science practice. Revealing underlying data and assumptions regarding scientific or public conclusions can assist in doing well by others as students generate their own data and conclusions. The course is set up as a yin and yang, in that in the earlier portion of the course, we explore topics and provide training that rely on digital interaction, digital provenance, and digital teamwork; where later we read and discuss how reading is required for developing critical thinking skills and the impacts that technology have on our brains and our intellectual capacity. The hope is that we all best leverage both in our scientific - and beyond - decision making processes.
 
-- [Week 1](lessons/W1)
-- [Week 2](lessons/W2)
-- [Week 3](lessons/W3)
-- [Week 4](lessons/W4)
-- [Week 5](lessons/W5)
-- [Week 6](lessons/W6)
+- [Week 1](lessons/W1.html)
+- [Week 2](lessons/W2.html)
+- [Week 3](lessons/W3.html)
+- [Week 4](lessons/W4.html)
+- [Week 5](lessons/W5.html)
+- [Week 6](lessons/W6.html)
 
 ### [Back to Home](../index)
