@@ -4,7 +4,7 @@
 
 ### Agenda 
 
-| Week# - Date| Topic | Description | 
+| Week number and Date| Topic | Description | 
 |:-------:|:-------------:|:------------------:|
 | Week 1 (4/3)| Onboarding: your digital self and persistent communications	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others (H)| [Week 1 info](https://github.com/tis-lab/tox-class/blob/master/docs/lessons/w1.md)|
 | Week 2 (4/10) |	Survival strategies for managing documents in shared locations	| Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement (H)|
