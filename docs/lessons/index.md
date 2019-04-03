@@ -15,15 +15,13 @@ Week | Topic | Format / Professor | Materials / homework
 ----------|----------|----------|----
 Week 1 - April 3rd | Onboarding: your digital self and persistent communications | Classroom / Haendel | Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others. 5 pts.
 
-
-
 The contents of this directory are intended as a guide or *script* to be used by an Instructor who is presenting this course. They are also useable by individuals who want to self-instruct.
 
-- [Lesson 1](lessons/Lesson1)
-- [Lesson 2](lessons/Lesson2)
-- [Lesson 3](lessons/Lesson3)
-- [Lesson 4](lessons/Lesson4)
-- [Lesson 5](lessons/Lesson5)
-- [Lesson 6](lessons/Lesson6)
+- [Week 1](lessons/W1)
+- [Week 2](lessons/W2)
+- [Week 3](lessons/W3)
+- [Week 4](lessons/W4)
+- [Week 5](lessons/W5)
+- [Week 6](lessons/W6)
 
 ### [Back to Home](../index)
