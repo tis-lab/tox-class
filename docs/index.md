@@ -9,7 +9,7 @@ Register at http://bit.ly/toxpayitforward
 
 | Week# - Date| Topic | Description | 
 |:-------:|:-------------:|:------------------:|
-| W1 4/3| Onboarding: your digital self and persistent communications	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others (H)| Week 1 info(https://github.com/tis-lab/tox-class/blob/master/docs/lessons/w1.md)|
+| W1 4/3| Onboarding: your digital self and persistent communications	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others (H)| [Week 1 info](https://github.com/tis-lab/tox-class/blob/master/docs/lessons/w1.md)|
 | W2 /10 |	Survival strategies for managing documents in shared locations	| Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement (H)|
 | W3 4/17	| Github and Markdown	| Data exploration of news articles posted to Github | Comment on someone else’s, fix their mistakes or make an addition with a pull request. Group presentation topic proposals (explore in class) (H)|
 | W4 4/17 |	Deep thinking part 1	| Reader come home readings (C)|
@@ -21,7 +21,7 @@ Register at http://bit.ly/toxpayitforward
 | W10 6/5 | Group presentations	| ~3 presentations/ 20 mins each  (H)| 
 
 (H) Haendel
-(C)
+(C) Curtis
 
 
 #### Privacy
