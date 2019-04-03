@@ -1,9 +1,6 @@
 ## TOX 599/699 Special Topics: Integrated Environmental and Molecular Toxicology
 ### Pay it forward: collaborative data-driven and deep-thinking based decision making
 
-#### Registration
-
-Register at http://bit.ly/toxpayitforward
 
 ### Agenda 
 
