@@ -18,21 +18,19 @@ Register at http://bit.ly/toxpayitforward
 
 Group presentation topic proposals (explore in class)
 
-| Week 4 - April 24th |	Deep thinking part 1	| Classroom/Curtis	| Reader come home readings
+| Week 4 - April 24th |	Deep thinking part 1	| Classroom/Curtis	| Reader come home readings |
 
-| Week 5 - May 1st	| Deep thinking part 2	| Classroom/Curtis	| Reader come home readings
+| Week 5 - May 1st	| Deep thinking part 2	| Classroom/Curtis	| Reader come home readings |
 
-| Week 6 - May 8th 	| Deep thinking part 3	| Classroom/Curtis	| Reader come home readings
+| Week 6 - May 8th 	| Deep thinking part 3	| Classroom/Curtis	| Reader come home readings | 
 
-| Week 7 - May 15th	| Deep thinking part 4	| Classroom/Curtis | Reader come home readings
+| Week 7 - May 15th	| Deep thinking part 4	| Classroom/Curtis | Reader come home readings | 
 
-| Week 8 - May 22nd	| Group presentations	| Classroom/
-Curtis (Haendel out) | 	~3 presentations/ 20 mins each |
+| Week 8 - May 22nd	| Group presentations	| Classroom/Curtis (Haendel out) | 	~3 presentations/ 20 mins each |
 
-| Week 9 - May 29th	Group presentations 	Classroom/ Haendel	~3 presentations/ 20 mins each
+| Week 9 - May 29th	Group presentations |	Classroom/ Haendel |	~3 presentations/ 20 mins each |
 
-| Week 10 - June 5th | 	Group presentations	| Classroom/
-Haendel	~3 presentations/ 20 mins each | 
+| Week 10 - June 5th | 	Group presentations	| Classroom/ Haendel | ~3 presentations/ 20 mins each | 
 
 |9am	| [1](lessons/Lesson1.md)	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
 |10am	| [2](lessons/Lesson2.md)	| [Introduction to form-based onboarding for teams](lessons/Lesson2.md) | 
