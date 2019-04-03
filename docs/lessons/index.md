@@ -3,8 +3,8 @@ Integrated Environmental and Molecular Toxicology, Section 003, CRN 56073/56072.
 
 ## Wednesdays 12-12:50pm.
 
-## “Pay it forward: 
-collaborative data-driven and deep-thinking based decision making” 
+## Pay it forward: 
+Collaborative data-driven and deep-thinking based decision making
 
 ## Course Description:
 
