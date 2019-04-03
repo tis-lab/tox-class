@@ -22,7 +22,7 @@ Register at http://bit.ly/toxpayitforward
 
 
 #### Privacy
-\* This tutorial is scoped for public data and communications only. 
+\* This class is scoped for public data and communications only. 
 
 ### Contact us
 For questions, contact us at [melissa.haendel@oregonstate.edu](mailto:melissa.haendel@oregonstate.edu)
