@@ -1,15 +1,39 @@
-## TBD
+## TOX 599/699 Special Topics: Integrated Environmental and Molecular Toxicology
+### Pay it forward: collaborative data-driven and deep-thinking based decision making
 
 #### Registration
 
 Register at http://bit.ly/toxpayitforward
 
-### Agenda
+### Agenda 
 
-**Note: This content is still under development; timing of each lesson is approximate and includes time for putting it into practice.**  
-
-| Time (see timezone above)| Lesson # | Description | 
+| Date| Topic | Format | Description | 
 |:-------:|:-------------:|:------------------:|
+
+| Week 1 - April 3rd| Onboarding: your digital self and persistent communications	| Classroom/ Haendel	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others|
+
+| Week 2- April 10th |	Survival strategies for managing documents in shared locations	| Asynchronous, pairs debate/ Haendel	Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement.
+
+| Week 3 - April 17th	| Github and Markdown	| Classroom/ Haendel| Data exploration of news articles posted to Github | Comment on someone else’s, fix their mistakes or make an addition with a pull request |
+
+Group presentation topic proposals (explore in class)
+
+| Week 4 - April 24th |	Deep thinking part 1	| Classroom/Curtis	| Reader come home readings
+
+| Week 5 - May 1st	| Deep thinking part 2	| Classroom/Curtis	| Reader come home readings
+
+| Week 6 - May 8th 	| Deep thinking part 3	| Classroom/Curtis	| Reader come home readings
+
+| Week 7 - May 15th	| Deep thinking part 4	| Classroom/Curtis | Reader come home readings
+
+| Week 8 - May 22nd	| Group presentations	| Classroom/
+Curtis (Haendel out) | 	~3 presentations/ 20 mins each |
+
+| Week 9 - May 29th	Group presentations 	Classroom/ Haendel	~3 presentations/ 20 mins each
+
+| Week 10 - June 5th | 	Group presentations	| Classroom/
+Haendel	~3 presentations/ 20 mins each | 
+
 |9am	| [1](lessons/Lesson1.md)	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
 |10am	| [2](lessons/Lesson2.md)	| [Introduction to form-based onboarding for teams](lessons/Lesson2.md) | 
 |11am	| [3](lessons/Lesson3.md)	| [Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) |
@@ -20,7 +44,7 @@ Register at http://bit.ly/toxpayitforward
 |4:00pm |  | Optional: Knowledge-sharing session / Q&A |
 
 #### Privacy
-\* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
+\* This tutorial is scoped for public data and communications only. 
 
 ### Contact us
 For questions, contact us at [melissa.haendel@oregonstate.edu](mailto:melissa.haendel@oregonstate.edu)
