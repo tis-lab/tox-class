@@ -7,18 +7,18 @@ Register at http://bit.ly/toxpayitforward
 
 ### Agenda 
 
-| Date| Topic | Format | Description | 
-|:-------:|:-------------:|:------------------:|:------------------:|
-| Week 1 - April 3rd| Onboarding: your digital self and persistent communications	| Classroom/ Haendel	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others|
-| Week 2- April 10th |	Survival strategies for managing documents in shared locations	| Asynchronous, pairs debate/ Haendel	Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement|
-| Week 3 - April 17th	| Github and Markdown	| Classroom/ Haendel| Data exploration of news articles posted to Github | Comment on someone else’s, fix their mistakes or make an addition with a pull request. Group presentation topic proposals (explore in class) |
-| Week 4 - April 24th |	Deep thinking part 1	| Classroom/Curtis	| Reader come home readings |
-| Week 5 - May 1st	| Deep thinking part 2	| Classroom/Curtis	| Reader come home readings |
-| Week 6 - May 8th 	| Deep thinking part 3	| Classroom/Curtis	| Reader come home readings | 
-| Week 7 - May 15th	| Deep thinking part 4	| Classroom/Curtis | Reader come home readings | 
-| Week 8 - May 22nd	| Group presentations	| Classroom/Curtis (Haendel out) | 	~3 presentations/ 20 mins each |
-| Week 9 - May 29th	Group presentations |	Classroom/ Haendel |	~3 presentations/ 20 mins each |
-| Week 10 - June 5th | 	Group presentations	| Classroom/ Haendel | ~3 presentations/ 20 mins each | 
+| Date| Topic | Description | 
+|:-------:|:-------------:|:------------------:|
+| W1 - 4/3| Onboarding: your digital self and persistent communications	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others (H)|
+| W2- 4/10 |	Survival strategies for managing documents in shared locations	| Asynchronous, pairs debate/ Haendel	Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement (H)|
+| W3 - 4/17	| Github and Markdown	| Data exploration of news articles posted to Github | Comment on someone else’s, fix their mistakes or make an addition with a pull request. Group presentation topic proposals (explore in class) (H)|
+| W4 - 4/17 |	Deep thinking part 1	| Reader come home readings (C)|
+| W5 - 5/1	| Deep thinking part 2	| Reader come home readings  (C)|
+| W6 - 5/8 	| Deep thinking part 3	| Reader come home readings  (C)| 
+| W7 - 5/15	| Deep thinking part 4	| Reader come home readings  (C)| 
+| W8 - 5/22	| Group presentations	| ~3 presentations/ 20 mins each  (C)|
+| W9 - 5/29	| Group presentations |	~3 presentations/ 20 mins each  (H)|
+| W10 - 6/5 | Group presentations	| ~3 presentations/ 20 mins each  (H)| 
 
 
 #### Privacy
