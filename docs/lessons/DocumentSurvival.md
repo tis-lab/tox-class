@@ -1,7 +1,7 @@
 ## Survival strategies for managing  documents in shared locations 
 ##### [Back to Home](../index.md)
 
-[Suggest an edit to this page](https://github.com/data2health/mtip-tutorial/blob/master/docs/lessons/Lesson3.md) or [log an issue](https://github.com/data2health/mtip-tutorial/issues/new)
+[Suggest an edit to this page](https://github.com/tis-lab/tox-class/edit/master/docs/lessons/DocumentSurvival.md) or [log an issue](https://github.com/tis-lab/tox-class/issues)
 
 ### Overview:
 
