@@ -1,4 +1,4 @@
-## Lesson 3: Survival strategies for managing  documents in shared locations 
+## Survival strategies for managing  documents in shared locations 
 ##### [Back to Home](../index.md)
 
 [Suggest an edit to this page](https://github.com/data2health/mtip-tutorial/blob/master/docs/lessons/Lesson3.md) or [log an issue](https://github.com/data2health/mtip-tutorial/issues/new)
@@ -41,15 +41,13 @@ Native Google Docs is not the same as Google Drive. These are often conflated. M
 |R/W access control at individual level	| + (individuals authorized at repo-level, not doc-level)	| +++	| +++	| +++|+++|
 |Often institutionally-approved for sensitive data/communications (PHI/PII) | - | - | - | +++ | + |
 
-`#` True serial collaborative editing is supported via Box; however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our team's experience collaboratively writing grant proposals under tight deadlines, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and wasted effort. In our experience. GitHub does not support simultaneous collaborative editing; however, if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
+`#` True serial collaborative editing is supported via Box; however at this time, Box does not warn users regarding who already has a document open. Consequently, using Box in the context of tight deadlines with multiple contributors requires extremely rigorous immediate communication regarding who has the lock on a document at any given moment. In our experience, the lack of safeguards afforded by automatic notification (eg as supported by DropBox, by contrast) have led to confusion and wasted effort. In our experience. GitHub does not support simultaneous collaborative editing; however, if editing happens to be carried out simultaneously by chance, conflicts are easy to assess and resolve.
 
 `*` Note that the formatting afforded by markdown is sleek but bare bones (affords more focus on content and less on rendering, as text can be rendered differently in different contexts (desktop, mobile, etc). Thus, more about structure (headings) and emphasis and less about style (color of text). 
 
 While editing in "Office 365" mode can theoretically overcome some these hurdles, it is not free and not widespread. Moreover, it should not be conflated with "Office online" which supports only serial collaborative edits with document locks. Implications for tight deadlines are poor.
 
 Combinations of technologies can work synergistically (eg. link a google doc to a github issue) if you understand their strengths and limitations.
-
-Box is the only OHSU-approved system for the storage of PHI/PII; all questions related to what constitutes PHI/PII must be referred to the appropriate OHSU office.
 
 #### When to use GitHub for tracking and managing your projects
 
@@ -63,7 +61,7 @@ Box is the only OHSU-approved system for the storage of PHI/PII; all questions r
 |Detailed dependency view/control| ++ | +++ |+++| ? |
 |Powerful but not overwhelming/feature-bloated |+++| + | -- | +++ |
 
-TL;DR this is Julie's personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, I have found GitHub, in combination with Google Docs, to be ample for the PM job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options for your use case.
+TL;DR this is our personal opinion: MS Project and JIRA are best reserved for gigantic multidependency projects that ALSO have a project management blackbelt at the helm AND that have the buy-in of the team for a lot of organizational overhead. For *most* projects in academia, we have found GitHub, in combination with Google Docs, to be ample for the job. Managing well has less to do with tools and more to do with discipline/organizational culture. Other PM tools exist that are GitHub integrated, such as ZenHub and Waffle.io. Our advice would be to first get really comfortable with the native basics in GitHub and workarounds (eg. specialized use of labels) and then explore the options for your use case.
 
 `**` GitHub is not per se *poorly* suited to managing projects that are not digital artifact based, but there's less of a marginal advantage that makes it a clear win over other free tools like Trello. The caveat is that when all of someone's projects, regardless of nature, are on GitHub, their competing priorities are easier to spot and tackle.
 
@@ -124,7 +122,7 @@ To preserve the single source of truth, instead of sending docs as an email atta
 The entire point of filing a document is to be able to retrieve it.
 
 ##### Tasks
-- Do a search on your hard drive for files called generic things like 'budget' or 'report'. Can you tell at a glance if they're what you're looking for without examining the path of each?
+- Do a search on your hard drive for files called generic things like 'report' or 'protocol'. Can you tell at a glance if they're what you're looking for without examining the path of each?
 - Improve the filename and try the search again. Did it help?
 - Experiment with sharing a file using a link instead of an attachment
 - Customize your browser toolbar with links to frequently accessed documents
@@ -133,5 +131,4 @@ The entire point of filing a document is to be able to retrieve it.
   - Dropbox
   - GDrive
 
-##### [Click here for Lesson 4](https://data2health.github.io/mtip-tutorial/lessons/Lesson4.html) 
 ### [Back to Home](../index)
