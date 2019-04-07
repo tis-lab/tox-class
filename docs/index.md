@@ -7,7 +7,7 @@
 | Week number and Date| Topic | Description | Info
 |:-------:|:-------------:|:------------------:|:------------------:|
 | Week 1 (4/3)| Onboarding: your digital self and persistent communications	| Create accounts: ORCID, Github, join Slack. Create introductory posts, respond to others (H)| [Week 1 info](https://tis-lab.github.io/tox-class/lessons/w1.html)|
-| Week 2 (4/10) |	Survival strategies for managing documents in shared locations	| Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement (H)|[Week 2 info](https://tis-lab.github.io/tox-class/lessons/w2.html)
+| Week 2 (4/10) |	[Survival strategies for managing documents in shared locations](https://github.com/tis-lab/tox-class/blob/master/docs/lessons/DocumentSurvival.md)	| Data exploration of news controversy posted to Google/Slack. Each side must make 2 arguments and work together on a resolution statement (H)|[Week 2 info](https://tis-lab.github.io/tox-class/lessons/w2.html)
 | Week 3 (4/17)	| Github and Markdown	| Data exploration of news articles posted to Github | Comment on someone else’s, fix their mistakes or make an addition with a pull request. Group presentation topic proposals (explore in class) (H)|
 | Week 4 (4/17) |	Deep thinking part 1	| Reader come home readings (C)|
 | Week 5 (5/1)	| Deep thinking part 2	| Reader come home readings  (C)|
