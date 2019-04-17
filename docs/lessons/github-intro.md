@@ -1,4 +1,4 @@
-## Lesson 5: Introduction to GitHub for managers (non-programmers)
+## Introduction to GitHub for managers (non-programmers)
 ##### [Back to Home](../index.md)
 ### Overview:
 - [Getting started](#getting-started)
@@ -97,7 +97,5 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - [Git 101: Git and GitHub for Beginners](http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners)
 - [Mastering Issues (10 min read)](https://guides.github.com/features/issues/)
 
-
-##### [Click here for Lesson 6](https://data2health.github.io/mtip-tutorial/lessons/Lesson6.html) 
 ### [Back to Home](../index.md)
 
