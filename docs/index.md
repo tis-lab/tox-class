@@ -13,9 +13,9 @@
 | Week 5 (5/1)	| Deep thinking part 2	| Reader come home readings  (C)|
 | Week 6 (5/8) 	| Deep thinking part 3	| Reader come home readings  (C)| 
 | Week 7 (5/15)	| Deep thinking part 4	| Reader come home readings  (C)| 
-| Week 8 (5/22)	| Group presentations	| ~3 presentations/ 20 mins each  (C)|
-| Week 9 (5/29)	| Group presentations |	~3 presentations/ 20 mins each  (H)|
-| Week 10 (6/5) | Group presentations	| ~3 presentations/ 20 mins each  (H)| 
+| Week 8 (5/22)	| Group work on presentations - no class	|[Final Assignment](https://tis-lab.github.io/tox-class/lessons/presentation-assignment.html) |
+| Week 9 (5/29)	| Group presentations |	2 groups/ 30 mins each  (H)|
+| Week 10 (6/5) | Group presentations	| 2 groups/ 30 mins each  (H)| 
 
 (H) Haendel
 (C) Curtis
