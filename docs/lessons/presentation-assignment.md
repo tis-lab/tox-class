@@ -65,7 +65,11 @@ Creates a written short nontechnical abstract--a layman's summary-- of the topic
 Also responsible for designing and collecting evaluation form for the group and gives the forms to students before the presentations. 
 
 # Grading
+This assignment is worth 60 pts.
 
+Participation and content posted on Github & Google Drive 15pts
+Shared Presentations: 30pts
+Individual roles: 15pts 
 
 
 
