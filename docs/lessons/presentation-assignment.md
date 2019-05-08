@@ -1,6 +1,6 @@
 # Final Group Presentation Assignment
 
-# Assignment overview
+## Assignment overview
 
 This assignment is a student group study followed by presentations to the rest of the class. The assignment is designed to maximize active and collaborative roles for each participant.
 
@@ -20,34 +20,53 @@ The goal of the presentations are to not only consider a timely and/or interesti
 4. Who funded the work, and any dependent resources? Do you think this could have led to any bias?
 5. Is there confounding evidence, and do you support the current conclusions, and why?
 
-# Goals
+Students in the audience should prepare to ask the presenters penetrating questions. 
+Presenting groups--especially those not burdened with presenting--are charged with explaining the methods, results and significance of the papers in response to questions.
+
+## Goals
 Use presentation skills to formulate an "elevator speech" to use in networking and professional activities
 Engage in active group-based learning
 Become more familiar with collaborative web-based tools 
 Gain leadership and organizational experience
 Increase evidence-based thought processes and conclusion drawing
 
-## Participants in the Class
+## Group Roles
 
 ### Master of Class (MC). 
-Sets the tone and pace by introducing the topic and speakers. Introductions are mini-speeches. Introduce the speakers to the audience and the audience to the speaker to establish mutuality—a common bond.
+2 min.
+Sets the tone and pace by introducing the topic and two speakers. Introductions are mini-speeches. Introduce the speakers to the audience and the audience to the speaker to establish mutuality—a common bond.
 
-Introduction: Make audience aware of the importance of the topic. Explains why "this subject.
-Explain that there will be a question/answer period after each talk followed by a general discussion period at the end of both talks.
-Conclusion……that leads to the actual talk.
+Introduction: Make audience aware of the importance of the topic. Explains "why this subject". 
+Explain that there will be time for one question after each talk followed by a general discussion period at the end of both talks.
+
 Also responsible for managing the timing of the presentations and discussion. Keeps the pace by keeping everyone, including evaluators (and yourself!), on time. Communicates with the speakers and Lead Evaluator.
 
 ### Presenter 1. 
-10 min. Introduces the topic including a concise background of the topic, perspectives and relevance. Include any special methods, terminology needed to understand the papers.
+8 min. Introduces the topic including a concise background of the topic, perspectives and relevance. Include any special methods, terminology needed to understand the papers.
 
-5 min Q&A, then brief (5 min or less) pause while everyone fills out evaluations on Presenter 1.
+1 min Q&A
 
 ### Presenter 2. 
-10 min. Summarizes the findings reported in the paper, methods and conclusions.
+8 min. Summarizes the findings reported in the paper, methods and conclusions.
 
-5 min Q&A, then brief (5 min or less) pause while everyone fills out evaluations on Presenter 2, makes any adjustments on evaluations for Presentor 1. 
+1 min Q&A
 
 ### Discussion Leader (DL). 
-MC turns over class to DL once papers are presented. DL invites questions from audience and also has 3 ideas to discuss (these are posted before class) in case discussion has a hard time. 
+MC turns over class to DL once following presentions. DL invites questions from audience and also has 3 ideas to discuss (these are posted before class) in case discussion has a hard time. 
 Look first to the students who were not presenting for answers to any questions.
+
+8 mins Q&A
+
+### Class Curator CC).
+CC makes coordinates posting links to papers with speakers, bonus materials on group markdown site, collects materials in Google drive and organizes the information. 
+
+Creates a written short nontechnical abstract--a layman's summary-- of the topic on the markdown page. The abstract may edited by the class, but the curator is responsible initiating the work and, for final content and posting.
+
+Also responsible for designing and collecting evaluation form for the group and gives the forms to students before the presentations. 
+
+# Grading
+
+
+
+
 
